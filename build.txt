@@ -1,0 +1,3 @@
+displayName = Unmaster Mode
+author = Laugic & MoonlitWyvern
+version = 0.1
