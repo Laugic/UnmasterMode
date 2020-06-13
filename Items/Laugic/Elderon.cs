@@ -32,7 +32,5 @@ namespace UnmasterMode.Items.Laugic
             item.autoReuse = true;
             item.crit = 8;
         }
-
-        //Dev branch is for testing integrations
     }
 }
